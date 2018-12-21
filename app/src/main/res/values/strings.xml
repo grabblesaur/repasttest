@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">repastapp</string>
+    <string name="review">Обзор</string>
+    <string name="favorite">Избранное</string>
+    <string name="profile">Профиль</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="make_a_tip">оставить чаевые</string>
+</resources>
